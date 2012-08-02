@@ -9,8 +9,11 @@
         , "email": "jake@alogicalparadox.com" }
     ]
   , "devDependencies": {
-      "mocha": "*"
-    , "chai": "*"
+      "mocha": "1.3.2"
+    , "chai": "1.1.1"
+  }
+  , "dependencies": {
+      "underscore": "*"
   }
   , "repository": {
       "type" : "git"
